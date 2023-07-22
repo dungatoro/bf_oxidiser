@@ -1,3 +1,0 @@
-[Add(0, 7), Loop, Move(0, x), Add(0, 10), Move(0, 29999), Add(0, 255), EndLoop |
-[Add(0, 7), Loop, Add(x, 10), Add(0, 255), EndLoop |
-[Add(x, 7*10) |
